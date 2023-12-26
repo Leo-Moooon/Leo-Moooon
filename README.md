@@ -6,8 +6,8 @@
 
 
 ## 📋 Projects
-2023 의료분야 수어챗봇 서비스 수채화 프로젝트 참여 <a href="https://github.com/Leo-Moooon/soochaehwa-medical-sign-language-chatbot/tree/main"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a> <br>
-2023 로봇청소기를 위한 소형 객체 탐지 모델 프로젝트 참여 <a href="https://github.com/Leo-Moooon/garbage-detection-for-robot-cleaner"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Leo-Moooon/soochaehwa-medical-sign-language-chatbot/tree/main"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a> 2023 의료분야 수어챗봇 서비스 수채화 프로젝트 참여 (Soochaehwa: Sign-Language Recognizable Chabot Service in medical domain) <br>
+<a href="https://github.com/Leo-Moooon/garbage-detection-for-robot-cleaner"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a> 2023 로봇청소기를 위한 소형 객체 탐지 모델 프로젝트 참여 (Small Object Detection Model for Robot Vacuum Cleaners)
 
 ## 🏆 Awards
 2023 제 5회 K-Digital Training 해커톤 우수상(고용노동부 장관상) <br>
